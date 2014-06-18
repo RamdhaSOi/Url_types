@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4F6E9244192E276100E2C4CD /* Shape 5112.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4F6E9243192E276100E2C4CD /* Shape 5112.jpg */; };
 		4F82326B192B6E6800106D71 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4F82326A192B6E6800106D71 /* Foundation.framework */; };
 		4F82326D192B6E6800106D71 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4F82326C192B6E6800106D71 /* CoreGraphics.framework */; };
 		4F82326F192B6E6800106D71 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4F82326E192B6E6800106D71 /* UIKit.framework */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4F6E9243192E276100E2C4CD /* Shape 5112.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Shape 5112.jpg"; sourceTree = "<group>"; };
 		4F823267192B6E6800106D71 /* Url_types.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Url_types.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4F82326A192B6E6800106D71 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		4F82326C192B6E6800106D71 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -112,6 +114,7 @@
 		4F823270192B6E6800106D71 /* Url_types */ = {
 			isa = PBXGroup;
 			children = (
+				4F6E9243192E276100E2C4CD /* Shape 5112.jpg */,
 				4F823279192B6E6800106D71 /* AppDelegate.h */,
 				4F82327A192B6E6800106D71 /* AppDelegate.m */,
 				4F82327C192B6E6800106D71 /* Main.storyboard */,
@@ -231,6 +234,7 @@
 				4F823283192B6E6800106D71 /* Images.xcassets in Resources */,
 				4F823275192B6E6800106D71 /* InfoPlist.strings in Resources */,
 				4F82327E192B6E6800106D71 /* Main.storyboard in Resources */,
+				4F6E9244192E276100E2C4CD /* Shape 5112.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -456,6 +460,7 @@
 				4F82329B192B6E6900106D71 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4F82329C192B6E6900106D71 /* Build configuration list for PBXNativeTarget "Url_typesTests" */ = {
 			isa = XCConfigurationList;
@@ -464,6 +469,7 @@
 				4F82329E192B6E6900106D71 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
